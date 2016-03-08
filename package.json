@@ -1,0 +1,29 @@
+{
+  "name": "@cryptowanderer/learning-node",
+  "version": "1.0.0",
+  "description": "Using FreeCodeCamp to learn about node.js",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^0.2.10",
+    "express": "^3.2.6",
+    "socket.io": "^0.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andytudhope/node.js.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Andy Tudhope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andytudhope/node.js/issues"
+  },
+  "homepage": "https://github.com/andytudhope/node.js#readme"
+}
